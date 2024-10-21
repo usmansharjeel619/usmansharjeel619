@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋
+I'm Usman Sharjeel, a passionate software engineer who thrives on crafting robust and scalable solutions. Here's a bit about me:
 
-<!--
-**usmansharjeel619/usmansharjeel619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Professional Experience
+.NET Developer at TechFlo (Jul 2024 - Present)
 
-Here are some ideas to get you started:
+Software Engineer at Friendsware Solutions (Apr 2024 - Present, Part-time)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Freelance Software Engineer (Sep 2021 - Present)
+
+📚 Education
+Bachelor of Science (BS) in Computer Software Engineering
+
+National University of Computer and Emerging Sciences (FAST), Islamabad, Class of 2024
+
+📫 Get in Touch
+Email: usmansharjeel619@gmail.com
+LinkedIn: https://www.linkedin.com/in/usmansharjeel
