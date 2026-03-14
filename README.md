@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Usman+Sharjeel+👋;Passionate+Software+Engineer+🚀;GraphQL+%7C+.NET+%7C+Full-Stack+Developer;Building+robust+%26+scalable+solutions+💡)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=usmansharjeel619&label=Profile%20Views&color=4f46e5&style=for-the-badge)](https://github.com/usmansharjeel619)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-sharjeel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansharjeel)
 [![Email](https://img.shields.io/badge/Email-usmansharjeel619%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmansharjeel619@gmail.com)
 
 </div>
@@ -220,7 +220,7 @@ I'm a **Software Engineer** with 4+ years of experience spanning full-time and f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Sharjeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usman-sharjeel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman%20Sharjeel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmansharjeel)
 [![Gmail](https://img.shields.io/badge/Gmail-usmansharjeel619%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmansharjeel619@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-usmansharjeel619-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmansharjeel619)
 [![Phone](https://img.shields.io/badge/Phone-%2B966%2055%20721%209490-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+966557219490)
